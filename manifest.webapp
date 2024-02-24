@@ -1,8 +1,8 @@
 {
-  "app_hub_id": "c9e35f66-3204-45a9-90fe-9227a29ab935",
+  "app_hub_id": "f6h35f66-3204-45a9-90fe-9227a29ab567",
   "appType": "APP",
-  "short_name": "cache-cleaner",
-  "name": "Cache Cleaner",
+  "short_name": "cache-storage-cleaner",
+  "name": "Cache Storage Cleaner",
   "description": "",
   "version": "100.1.14",
   "core_app": true,
